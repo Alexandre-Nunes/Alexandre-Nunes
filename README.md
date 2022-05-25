@@ -1,4 +1,4 @@
- ## Seja muito bem vindo ao meu GitHub :white_check_mark:
+ ## Seja muito bem vindo(a) ao meu GitHub :white_check_mark:
  
 Daeee pessoal! 
 

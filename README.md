@@ -1,5 +1,7 @@
- ## Um poco sobre mim :white_check_mark:
+ ## Seja muito bem vindo ao meu GitHub :white_check_mark:
+ 
 Daeee pessoal! 
+
 Me chamo Alexandre Nunes
 
 Sou apaixonado por tecnologia e automação de testes. Tenho experiência na área de Qualidade, vivência com metodologias ágeis, execução de testes em plataformas web e mobile, controle e reporte de bugs e não conformidades dentro dos sistemas. Desenvolvi minha carreira atuando como QA desde 2016, em bancos digitas, empresas de marketing, e-commerce e de Varejo.
